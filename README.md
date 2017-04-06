@@ -2,11 +2,11 @@
 <html>
 <body>
 <b>Right To Information</b>
-<h1> Details </h1>
 <table>
 <tr>
-<th> Tag </th>
-<th> Details</th>
+<th><b>Tag</b></th>
+<th><b>Details</b></th>
+<th><b>Suggestion</b><th>
 </tr>
 <tr>
 <td>Page Title</td>
