@@ -9,7 +9,8 @@
 <th><b>TAG</b></th>
 <th><b>STATUS</b></th>
 <th><b>DETAILS</b></th>
-<th><b>SUGGESTIONS</b><th></tr>
+<th><b>SUGGESTIONS</b><th>
+</tr>
 <tr>
 <td>Page Title</td>
 <td>Found</td>
