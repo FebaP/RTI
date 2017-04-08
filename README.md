@@ -1,17 +1,18 @@
-
 <html>
 <body>
-<b>Right To Information</b>
+<b><h1>RIGHT TO INFORMATION</h1></b>
 <table>
 <tr>
-<th><b>Tag</b></th>
-<th><b>Details</b></th>
-<th><b>Suggestion</b><th>
+<th><b>TAG</b></th>
+<th><b>STATUS</b></th>
+<th><b>DETAILS</b></th>
+<th><b>SUGGESTIONS</b><th>
 </tr>
 <tr>
 <td>Page Title</td>
 <td>yes.
-The Page title length of your page is 20 characters. Most search engines will truncate Page title to 65 characters.</td>
+The Page title length of your page is 20 characters.
+Most search engines will truncate Page title to 65 characters.</td>
 </tr>
 <tr>
 <td>Admin Name</td>
