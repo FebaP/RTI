@@ -19,23 +19,35 @@
 </tr>
 <tr>
 <td>Admin Name</td>
+<td>Found</td>
 <td>Director RTI</td>
+<td>Should provide the admin name</td>
 </tr>
 <tr>
 <td>Meta Description</td> 
-<td>Not Found : The meta description length of page is 0 characters. Most search engines will truncate meta descriptions to 160 characters.</td>
+<td>Not Found </td>
+<td>The meta description length of page is 0 characters.</td>
+<td>Most search engines will truncate meta descriptions to 160 characters.</td>
 </tr>
 <tr>
 <td>Meta Keywords</td>
-<td>Meta keywords not Found : Google Does not accept meta keywords any more..</td>
+<td>Not Found </td>
+<td>Google Does not accept meta keywords any more.</td>
+</tr>
+<tr>
+<td>Google Search Results Preview</td>
+<td>-Info- </td>
+<td>Right to Informationhttp://rti.gov.in/</td>
 </tr>
 <tr>
 <td>Robots.txt</td>
-<td>Doe not Use</td>
+<td>Not Found</td>
 </tr>
 <tr>
 <td> Site Map </td>
 <td> 1 sitemap found </td>
+<td>* http://rti.gov.in/sitemap.xml</td>
+<td> Adding a multiple sitemap structure does not guarantee better indexation or more traffic.</td>
 </tr>
 <tr>
 <td>Inline Css Test</td>
