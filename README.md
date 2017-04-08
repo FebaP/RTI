@@ -1,8 +1,7 @@
 <html>
 <body>
 <div align="center">
-  <b><u><h1 style="color:blue;">RIGHT TO INFORMATION</h1>
-  <h1 style="font-family:verdana;">RIGHT TO INFORMATION</h1></u></b>
+  <b><u><h1 style="color:blue;">RIGHT TO INFORMATION</h1></u></b>
 </div>
 <i><h2>A Citizen Gateway</h2></i>
 <table>
