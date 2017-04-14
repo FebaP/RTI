@@ -15,24 +15,21 @@
 <td>Page Title</td>
 <td>Found</td>
 <td>The Page title length of your page is 20 characters.</td>
-<td>Most search engines will truncate Page title to 65 characters.
-</tr>
-<tr>
-<td>Admin Name</td>
-<td>Found</td>
-<td>Director RTI</td>
-<td>Should provide the admin name</td>
+<td>Most search engines will truncate Page title to 65 characters.</td>
 </tr>
 <tr>
 <td>Meta Description</td> 
 <td>Not Found </td>
-<td>The meta description length of page is 0 characters.</td>
+<td>The meta description length of this page 0 characters.</td>
 <td>Most search engines will truncate meta descriptions to 160 characters.</td>
 </tr>
 <tr>
 <td>Meta Keywords</td>
 <td>Not Found </td>
-<td>Google Does not accept meta keywords any more.</td>
+<td>This page does not contain any Keywords.</td> 
+<td>Having keywords in the first heading and in the first paragraph on a page are best.
+But here ,
+Google Does not accept meta keywords any more.</td>
 </tr>
 <tr>
 <td>Google Search Results Preview</td>
