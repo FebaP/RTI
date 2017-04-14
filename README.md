@@ -29,7 +29,7 @@
 <td>This page does not contain any Keywords.</td> 
 <td>Having keywords in the first heading and in the first paragraph on a page are best.
 But here ,
-Google Does not accept meta keywords any more.</td>
+<b>Google Does not accept meta keywords any more.</b></td>
 </tr>
 <tr>
 <td>Google Search Results Preview</td>
