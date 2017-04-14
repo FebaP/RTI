@@ -13,19 +13,19 @@
 </tr>
 <tr>
 <td>Page Title</td>
-<td>Found</td>
+<td>FOUND</td>
 <td>The Page title length of your page is 20 characters.</td>
 <td>Most search engines will truncate Page title to 65 characters.</td>
 </tr>
 <tr>
 <td>Meta Description</td> 
-<td>Not Found </td>
+<td>NOT FOUND </td>
 <td>The meta description length of this page 0 characters.</td>
 <td>Most search engines will truncate meta descriptions to 160 characters.</td>
 </tr>
 <tr>
 <td>Meta Keywords</td>
-<td>Not Found </td>
+<td>NOT FOUND </td>
 <td>This page does not contain any Keywords.</td> 
 <td>Having keywords in the first heading and in the first paragraph on a page are best.
 But here ,
@@ -34,11 +34,20 @@ But here ,
 <tr>
 <td>Google Search Results Preview</td>
 <td>-Info- </td>
-<td>Right to Informationhttp://rti.gov.in/</td>
+<td>Right to Information.</td>
+<td>http://rti.gov.in/</td>
 </tr>
+<tr>
+<td> h1 Headings Status</td>
+<td> FOUND </td>
+<td>Your page contains H1 headings.Their contents are listed below:
+⟩⟩ About Right to Information Act 2005..</td>
+<td></td>
 <tr>
 <td>Robots.txt</td>
 <td>Not Found</td>
+<td>--</td>
+<td>using a Robots.txt, we can tell a spider or a Robot that you do not want some of your pages indexed,or that you do not want your links followed.</td>
 </tr>
 <tr>
 <td> Site Map </td>
