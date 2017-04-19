@@ -120,7 +120,7 @@ But here ,
 </table>
 <br>
  
-<table border=3 bgcolor="Red">
+<table  background-color:"red">
 <tr>
      <th> <u>Domain Age</u></th>
     </tr>
