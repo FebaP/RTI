@@ -1,4 +1,8 @@
 <html>
+<style>
+body{
+background-image: url("http://avante.biz/wp-content/uploads/Green-Wallpaper-Hd/Green-Wallpaper-Hd-007.jpg")}
+</style>
 <body>
 <div align="center">
   <b><u><h1 style="color:blue;">RIGHT TO INFORMATION</h1></u></b>
@@ -62,6 +66,7 @@ But here ,
 ⟩⟩ Delivery Monitoring Unit
 ⟩⟩ RTI in India</td>
 <td>The h2 tag is a subheading and should contain similar keywords to h1 tag. </td>
+</tr>
 <tr>
 <td>Robots.txt</td>
 <td>Not Found</td>
@@ -140,5 +145,5 @@ But here ,
     </tr>
 </table>
 <a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-bronze.png" alt="seo checker"/></a>
-</body>
-</html>
+<body/>
+<html/>
