@@ -118,8 +118,8 @@ But here ,
 </tr>
 <tr>
 </table>
-<p>
-  <table border=5 bgcolor="Yellow">
+<br>
+  <table border=3 bgcolor="Yellow">
     <tr>
      <th><div align="center"> <u>Domain Age</u></div></th>
     </tr>
@@ -127,11 +127,9 @@ But here ,
       <td><b>Created on</b></td><td>13-Oct-2005 09:24:46 UTC</td>
     </tr>
     <tr>
-      <td><b>Age</b></td><td>12 Years,10 days</td>
-    </tr>
+      <td><b>Age</b></td><td>12 Years,10 days</td> </tr>
     <tr>
-      <td><b>Last Updated</b></td><td>04-Oct-2016 09:54:10 UTC
-</td>
+      <td><b>Last Updated</b></td><td>04-Oct-2016 09:54:10 UTC</td>
     </tr>
      </table><p>
 </body>
