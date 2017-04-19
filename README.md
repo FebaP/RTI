@@ -8,7 +8,7 @@ background-image: url("http://avante.biz/wp-content/uploads/Green-Wallpaper-Hd/G
   <b><u><h1 style="color:blue;">RIGHT TO INFORMATION</h1></u></b>
 </div>
 <i><h2 style="color:blue;">A Citizen Gateway</h2></i>
-<table style="background-color:pink">
+<table>
 <tr>
 <th><b>TAG</b></th>
 <th><b>STATUS</b></th>
@@ -138,7 +138,7 @@ But here ,
     </tr>
 </table>
 <p>
-<table>
+<table Bckground color="lightgreen">
     <tr>
       <th><u><b>Load Time</b></u></th><th><b>SEO score</b></th><th><b>Speed score</b></th>
     </tr>
