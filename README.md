@@ -116,12 +116,11 @@ But here ,
 <td>	Page rank is 0/10.</td>
 <td>More backlinks need to be used to increase PR.</td>
 </tr>
-<tr>
 </table>
 <p>
 <table>
 <tr>
-     <th> <u>Domain Age</u></th>
+     <th> <u><b>Domain Age</b></u></th>
     </tr>
     <tr>
       <td><b>Created on</b></td><td>13-Oct-2005 09:24:46 UTC</td>
