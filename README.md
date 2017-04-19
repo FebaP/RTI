@@ -121,7 +121,7 @@ But here ,
 <p>
   <table border=5 bgcolor="Yellow">
     <tr>
-     <div align="center"> <th><u>Domain Age</u></th> </div>
+     <th><div align="center"> <u>Domain Age</u></div></th>
     </tr>
     <tr>
       <td><b>Created on</b></td><td>13-Oct-2005 09:24:46 UTC</td>
