@@ -139,6 +139,6 @@ But here ,
     <tr><td>7.4sec</td><td>50/100</td><td>63/100</td>
     </tr>
 </table>
-
-<body/>
-<html/>
+<a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-bronze.png" alt="seo checker"/></a>
+</body>
+</html>
