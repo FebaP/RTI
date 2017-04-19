@@ -78,40 +78,60 @@ But here ,
 <td>Broken Links Test</td>
 <td>OK</td>
 <td>From 57 distinct anchor links analyzed, none of them appears to be broken. </td>
-<td>--</td>
+<td>It is good to have no broken links.</td>
 </tr>
 <tr>
 <td>Image Alt Test</td>
-<td>OK</td>
-<td>Fistinct anchor links analyzed, none of them appears to be broken. </td>
-<td>--</td>
-
+<td>NOT FOUND</td>
+<td>This webpage has 21 'img' tags and 21 of them missing the required 'alt' attribute </td>
+<td>'alt' attribute must be used with all 'img' tags.</td>
 <tr>
 <td>Inline Css Test</td>
-<td>12(Inlines)</td>
+<td>Not Good</td>
+<td>Your webpage is using 12 inline CSS styles</td>
+<td>
+</tr>
+<tr>
+<td>Underscores in Links Test	</td>
+<td>Not Found</td>
+<td>We have not found underscores in this in-page URLs</td>
+<td>Hyphens should be used instead of underscores.So this site does not use any underscores.</td>
 </tr>
 <tr>
 <td> Favicon Test </td>
-<td> Found </td>
+<td>Not Found </td>
+<td>This website appears not to have a favicon.</td>
+<td>Webpage can be easily recognized through Favicon.So This website should use favicone.</td>
 </tr>
 <tr>
-<td>HTML Page size</td>
-<td>22.39kb.</td>
+<td>SEO Friendly URL Test	</td>
+<td>Not Good</td>
+<td> 6 internal urls found that are not seo friendly</td>
+<td>An SEO friendly url must contain only lower alphabets, numbers, slashes(/), dash(-). <br>
+<b>Underscores, upercase Alphabets and special chars (e-g: & ? %) are not seo friendly</b>.</td>
 </tr>
-<tr>
-<td>HTML Compression </td>
-<td>gzip compression</td>
-</tr>
-
 <tr>
 <td>Page Rank</td>
-<td>0</td>
+<td>Not Good</td>
+<td>	Page rank is 0/10.</td>
+<td>More backlinks need to be used to increase PR.</td>
 </tr>
 <tr>
-<td>Age</td>
-<td>13-october-2005 09:24:46 UTC</td>
-</tr>
-
 </table>
+  <table border=5 bgcolor="Blue">
+    <tr>
+      <th><u>Domain Age</u></th>
+    </tr>
+    <tr>
+      <td><b>Created on</b></td><td>13-Oct-2005 09:24:46 UTC</td>
+    </tr>
+    <tr>
+      <td><b>Age</b></td><td>12 Years,10 days</td>
+    </tr>
+    <tr>
+      <td><b>Last Updated</b></td><td>04-Oct-2016 09:54:10 UTC
+</td>
+    </tr>
+     </table><p>
 </body>
 </html>
