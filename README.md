@@ -92,15 +92,16 @@ But here ,
 <td>NOT FOUND</td>
 <td>This webpage has 21 'img' tags and 21 of them missing the required 'alt' attribute </td>
 <td>'alt' attribute must be used with all 'img' tags.</td>
+</tr>
 <tr>
 <td>Inline Css Test</td>
 <td>Not Good</td>
 <td>Your webpage is using 12 inline CSS styles</td>
-<td>it should use more and good Css styles</td> 
+<td>it should use good Css styles</td> 
 </tr>
 <tr>
 <td>Underscores in Links Test	</td>
-<td>Not Found</td>
+<td>Very Good</td>
 <td>We have not found underscores in this in-page URLs</td>
 <td>Hyphens should be used instead of underscores.So this site does not use any underscores.</td>
 </tr>
@@ -123,6 +124,9 @@ But here ,
 <td>	Page rank is 0/10.</td>
 <td>More backlinks need to be used to increase PR.</td>
 </tr>
+<tr>
+  <td>Page size</td><td >Very light</td><td >Page size is 22.25KB</td><td>The heavier the site page, the slower the load. For optimal performance, try to keep page size below 3MB</td>
+        </tr>
 </table>
 <p>
 <table>
