@@ -76,7 +76,7 @@ But here ,
 <tr>
 <td> Site Map </td>
 <td> 1 sitemap found </td>
-<td><a href="http://rti.gov.in/sitemap.xml"><b><font size=5>Sitemap</font></b></a> </td>
+<td> <a href="http://rti.gov.in/sitemap.xml"> <b><font size=5> Sitemap </font></b></a> </td>
 <td>A sitemap is a list of pages of a web site accessible to crawlers or users.It is good to have sitemap
  Adding a multiple sitemap structure does not guarantee better indexation or more traffic.</td>
 </tr>
