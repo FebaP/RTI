@@ -132,6 +132,13 @@ But here ,
     </tr>
 </table>
 <p>
+<table border=3 bgcolor="lightgreen">
+    <tr>
+      <th><u><b>Load Time</b></u></th><th><b>SEO score</b></th><th><b>Speed score</b></th>
+    </tr>
+    <tr><td>7.4sec</td><td>50/100</td><td>63/100</td>
+    </tr>
+  </table>
 
 <body/>
 <html/>
