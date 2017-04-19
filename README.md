@@ -118,9 +118,10 @@ But here ,
 </tr>
 <tr>
 </table>
-  <table border=5 bgcolor="Blue">
+<p>
+  <table border=5 bgcolor="Yellow">
     <tr>
-      <th><u>Domain Age</u></th>
+     <div align="center"> <th><u>Domain Age</u></th> </div>
     </tr>
     <tr>
       <td><b>Created on</b></td><td>13-Oct-2005 09:24:46 UTC</td>
