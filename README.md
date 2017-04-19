@@ -119,8 +119,8 @@ But here ,
 <tr>
 </table>
 <br>
- 
-<table  background-color:"red">
+<p>
+<table>
 <tr>
      <th> <u>Domain Age</u></th>
     </tr>
@@ -133,6 +133,7 @@ But here ,
       <td><b>Last Updated</b></td><td>04-Oct-2016 09:54:10 UTC</td>
     </tr>
 </table>
+<p>
 
 <body/>
 <html/>
