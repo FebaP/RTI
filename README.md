@@ -40,9 +40,28 @@ But here ,
 <tr>
 <td> h1 Headings Status</td>
 <td> FOUND </td>
-<td>Your page contains H1 headings.Their contents are listed below:
+<td>Your page contains H1 headings.Their contents are listed below:<br>
 ⟩⟩ About Right to Information Act 2005..</td>
-<td></td>
+<td>The h1 tag should contain your targeted keywords, ones that closely relate to the page title and are relevant to our content. </td>
+</tr>
+<tr>
+<td> h2 Headings Status</td>
+<td> FOUND </td>
+<td>Your page contains H2 headings. Their contents are listed below:<br>
+⟩⟩ Kids Corner
+⟩⟩ Thanks to RTI
+⟩⟩ RTI Video/Audio
+⟩⟩ Publications
+⟩⟩ Online Services
+⟩⟩ Whats New
+⟩⟩ Information on CIC
+⟩⟩ SIC
+⟩⟩ Appellate Authorities
+⟩⟩ Public Info Officers
+⟩⟩ RTI Links and Websites
+⟩⟩ Delivery Monitoring Unit
+⟩⟩ RTI in India</td>
+<td>The h2 tag is a subheading and should contain similar keywords to h1 tag. </td>
 <tr>
 <td>Robots.txt</td>
 <td>Not Found</td>
@@ -55,6 +74,18 @@ But here ,
 <td>* http://rti.gov.in/sitemap.xml</td>
 <td> Adding a multiple sitemap structure does not guarantee better indexation or more traffic.</td>
 </tr>
+<tr>
+<td>Broken Links Test</td>
+<td>OK</td>
+<td>From 57 distinct anchor links analyzed, none of them appears to be broken. </td>
+<td>--</td>
+</tr>
+<tr>
+<td>Image Alt Test</td>
+<td>OK</td>
+<td>Fistinct anchor links analyzed, none of them appears to be broken. </td>
+<td>--</td>
+
 <tr>
 <td>Inline Css Test</td>
 <td>12(Inlines)</td>
