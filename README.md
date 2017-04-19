@@ -9,6 +9,7 @@ background-image: url("http://avante.biz/wp-content/uploads/Green-Wallpaper-Hd/G
 </div>
 <i><h2 style="color:blue;">A Citizen Gateway</h2></i>
 <table>
+<table style="background-color:pink">
 <tr>
 <th><b>TAG</b></th>
 <th><b>STATUS</b></th>
