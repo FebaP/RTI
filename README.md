@@ -8,7 +8,6 @@ background-image: url("http://avante.biz/wp-content/uploads/Green-Wallpaper-Hd/G
   <b><u><h1 style="color:blue;">RIGHT TO INFORMATION</h1></u></b>
 </div>
 <i><h2 style="color:blue;">A Citizen Gateway</h2></i>
-<table>
 <table style="background-color:pink">
 <tr>
 <th><b>TAG</b></th>
@@ -77,7 +76,7 @@ But here ,
 <tr>
 <td> Site Map </td>
 <td> 1 sitemap found </td>
-<td> <a href="http://rti.gov.in/sitemap.xml"> <b><font size=5> Sitemap </font></b></a> </td>
+<td> <a href="http://rti.gov.in/sitemap.xml"> <b> Sitemap </b></a> </td>
 <td>A sitemap is a list of pages of a web site accessible to crawlers or users.It is good to have sitemap
  Adding a multiple sitemap structure does not guarantee better indexation or more traffic.</td>
 </tr>
