@@ -39,7 +39,7 @@ But here ,
 <td>Google Search Results Preview</td>
 <td>-Info- </td>
 <td>Right to Information.</td>
-<td><a href="http://rti.gov.in.xml"><b>SEARCH</b></a>
+<td><a href="http://rti.gov.in/"><b>SEARCH</b></a>
         </td>
 </tr>
 <tr>
