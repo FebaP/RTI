@@ -127,6 +127,12 @@ But here ,
 <p>
 <table>
 <tr>
+<td><b>ADMIN NAME:</b> <i>Director RTI</i></td>
+</tr>
+</table>
+<p>
+<table>
+<tr>
      <th> <u><b>Domain Age</b></u></th>
     </tr>
     <tr>
