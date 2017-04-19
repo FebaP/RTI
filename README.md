@@ -7,7 +7,7 @@ background-image: url("http://avante.biz/wp-content/uploads/Green-Wallpaper-Hd/G
 <div align="center">
   <b><u><h1 style="color:blue;">RIGHT TO INFORMATION</h1></u></b>
 </div>
-<i><h2>A Citizen Gateway</h2></i>
+<i><h2 style="color:blue;">A Citizen Gateway</h2></i>
 <table>
 <tr>
 <th><b>TAG</b></th>
@@ -76,8 +76,9 @@ But here ,
 <tr>
 <td> Site Map </td>
 <td> 1 sitemap found </td>
-<td>* http://rti.gov.in/sitemap.xml</td>
-<td> Adding a multiple sitemap structure does not guarantee better indexation or more traffic.</td>
+<td><a href="http://rti.gov.in/sitemap.xml"><b><font size=5>Sitemap</font></b></a> </td>
+<td>A sitemap is a list of pages of a web site accessible to crawlers or users.It is good to have sitemap
+ Adding a multiple sitemap structure does not guarantee better indexation or more traffic.</td>
 </tr>
 <tr>
 <td>Broken Links Test</td>
@@ -94,7 +95,7 @@ But here ,
 <td>Inline Css Test</td>
 <td>Not Good</td>
 <td>Your webpage is using 12 inline CSS styles</td>
-<td>
+<td>it should use more and good Css styles</td> 
 </tr>
 <tr>
 <td>Underscores in Links Test	</td>
